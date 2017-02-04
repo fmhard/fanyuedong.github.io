@@ -1,3 +1,4 @@
+ $("#rocket").removeClass("show");
 $(window).scroll(function() {
     $(window).scrollTop() > 0 ? $("#rocket").addClass("show") : $("#rocket").removeClass("show");
 });
