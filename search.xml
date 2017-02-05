@@ -3,6 +3,20 @@
   
     
     <entry>
+      <title><![CDATA[我的前段之路]]></title>
+      <url>%2FEssay%2Fhi%2F</url>
+      <content type="text"><![CDATA[#我的前端之路在2016年用我大四的半个学年去接触了一个对我来说比较陌生的事物–web前端。刚开始接触前端，是带着一点忐忑与期待的。忐忑在于担心自己学得不好，期待在于这样一份新鲜事物总会给人一种新的开始的感觉。对于新的开始谁不期待呢？从在达内上课的第一天，我开始了自己前端入门之路，是的，仅仅是入门。从慢慢开始接触HTML语言，然后熟练地用键盘敲出css层叠样式表。我发现前端入门的门槛并没有想象中的那么高，短短的十几天，我从一个完全不懂前端的菜鸟变成了一个能写简单前端静态页面的菜鸟。这种每天都能学习到新知识的感觉让我有点愉悦。前端学习渐入佳境，一片平担的路上遇到了第一点坡度，javascript是前端三大神器中比较难的点，而且在达内学习的时间也不能完全将他学深，这只是带我们入门。就应了那句老话:老师领进门，修行靠个人。同样一个功能，有的人可能需要几十行甚至上百行搞定，有的人可能就十几行便将它实现。这就是后期修行的重要性。在学习javascript的过程中，遇到了很多问题。靠着同学的交流，老师的提点，自己在网络上的寻找，跌跌撞撞的一路走过。有的时候是一个分号的错误，有的时候是整体代码逻辑出现问题，庆幸的是它们总是存在着很多答案，而我恰好找到了其中一个。不知从哪看到的一段话:我们现阶段能犯的错误前人早就出现过并给出了解答。所以在学习过程中，我明白了从网上，书上寻找答案的能力很重要。找到相似问题答案后，能见一知二地移用到自己的问题是一个合格程序员所要具备的能力。到了学习后期，开始学习框架，这是优秀代码的集合。这些代码优美而简洁，是我们这利刚入门的前端学徒所不能及的，在开发项目中，选择一个合适的框架往往事半功倍。在前端框架学习结束后，我到了一家创业公司工作了一个多月。实际开发中遇到了各种问题，比如需求的频繁改动，前后端交流不顺畅，自己个人能力欠缺等。这些问题都不是立马能解决的，要靠时间积累。一个多月的工作，充实而疲惫着，一个规范正确的开发流程非常重要的，然而在这家工司却未曾做到。在最后我选择了离职，希望下次开始能更好。]]></content>
+    </entry>
+
+    
+    <entry>
+      <title><![CDATA[hexo 如何创建分类]]></title>
+      <url>%2Fhexo%2Fbegin-a-new-categories%2F</url>
+      <content type="text"><![CDATA[#如何创建分类 1、创建一篇新的文章12$ hexo new &quot;new Types&quot; INFO Created: ~/blog/source/_posts/new-Types.md 2、修改文章类型categories[通过vim编辑] 12345678$ vim source/_posts/new-Types.md --- title: new Types date: 2016-08-25 20:23:37 categories: type1 description: 这里是内容简介 --- 我的分类是type1]]></content>
+    </entry>
+
+    
+    <entry>
       <title><![CDATA[Hello World]]></title>
       <url>%2FEssay%2Fhello-world%2F</url>
       <content type="text"><![CDATA[Welcome to Hexo! This is your very first post. Check documentation for more info. If you get any problems when using Hexo, you can find the answer in troubleshooting or you can ask me on GitHub. Quick StartCreate a new post1$ hexo new "My New Post" More info: Writing Run server1$ hexo server More info: Server Generate static files1$ hexo generate More info: Generating Deploy to remote sites1$ hexo deploy More info: Deployment]]></content>
